@@ -51,7 +51,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 ### Contact me
 
-You may freely use [this repository's Discussions area](https://github.com/TheWitheredStriker/TheWitheredStriker/discussions) for literally everything you want. If you want to ask me a question, or just talk with me (even about stuff unrelated to code), you may freely do so in the Discussions. For private contact, I also have my Twitter linked on my smaller bio (DM's are open to everyone) and you can also access my e-mail. You may request my Discord tag through either of these two mediums, or you can give me mine so I can add you.
+You may freely use [this repository's Discussions area](https://github.com/TheWitheredStriker/TheWitheredStriker/discussions) for literally everything you want. If you want to ask me a question, or just talk with me (even about stuff unrelated to code), you may freely do so in the Discussions. For private contact, I also have my Twitter linked on my smaller bio (DM's are open to everyone) and you can also access my e-mail. You may request my Discord tag through either of these two mediums, or you can give me yours so I can add you.
 
 ## Other accounts
 

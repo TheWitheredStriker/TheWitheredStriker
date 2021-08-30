@@ -4,7 +4,7 @@ My username is TheWitheredStriker, but just call me Wither. I'm a novice program
 
 I'm mainly interested in desktop software development, mobile development, gamedev (and modding), systems programming, ROM hacking and to a lesser degree cloud computing, servers and reverse engineering. I'm not interested in web development, most algorithms, computational science or statistics, AI and robotics. This largely affects my programming language choices.
 
-### About me
+## About me
 
 - __Name:__ TheWitheredStriker (Wither)
 - __Location:__ West Flanders, Belgium
@@ -49,11 +49,11 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=10)](https://github.com/TheWitheredStriker/github-readme-stats)
 
-### Contact me
+# Contact me
 
 You may freely use [this repository's Discussions area](https://github.com/TheWitheredStriker/TheWitheredStriker/discussions) for literally everything you want. If you want to ask me a question, or just talk with me (even about stuff unrelated to code), you may freely do so in the Discussions. For private contact, I also have my Twitter linked on my smaller bio (DM's are open to everyone) and you can also access my e-mail. You may request my Discord tag through either of these two mediums, or you can give me yours so I can add you.
 
-## Other accounts
+# Other accounts
 
 - __[GitLab](https://gitlab.com/TheWitheredStriker)__
 - __[Fandom](https://c.fandom.com/wiki/User:Withersoul_235)__

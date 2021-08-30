@@ -55,9 +55,14 @@ You may freely use [this repository's Discussions area](https://github.com/TheWi
 
 ## Other accounts
 
-- __[Fandom](https://c.fandom.com/wiki/User:Withersoul_235)__
 - __[GitLab](https://gitlab.com/TheWitheredStriker)__
+- __[Fandom](https://c.fandom.com/wiki/User:Withersoul_235)__
 - __[Steam](https://steamcommunity.com/id/TheWitheredStriker/)__
+- __[Origin](https://www.origin.com/bel/en-us/profile/user/pb0s1TzoSoox2ijS1gYWcQ--/games)__
+- __[GOG.com](https://www.gog.com/u/Withered_Striker)__
+- __[Uplay](https://ubisoftconnect.com/en-US/profile/WitheredStriker)__
+- __[Google Stadia](https://stadia.com/link/home?si_rid=11929210142687632981)__
+- __[Reddit](https://www.reddit.com/user/Wither_Kelaini)__
 
 <!--
 **TheWitheredStriker/TheWitheredStriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

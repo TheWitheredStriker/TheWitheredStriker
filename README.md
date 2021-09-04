@@ -45,6 +45,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Assembly
 - I may even pick up COBOL, given [how it's still huge in banks and mainframes and how the demand for them surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T).
 - __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I get to Apple development)
+- __IDEs of choice:__ Microsoft Visual Studio, JetBrains IntelliJ IDEA, Visual Studio Code, Embarcadero Delphi, HaxeDevelop
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=10)](https://github.com/TheWitheredStriker/github-readme-stats)

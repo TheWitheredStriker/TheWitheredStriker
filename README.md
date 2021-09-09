@@ -10,6 +10,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - __Location:__ West Flanders, Belgium
 - __Pronouns:__ He / him / his
 - __Gender:__ Male
+- __Languages:__ Dutch (N) & English (EN-3)
 - __Interests:__ Videogames, pop culture, computer science, history, demography, 3D art
 - __Hobbies:__ Gaming, writing, programming, listening to music, watching TV, going for a stroll, experimenting with 3D animation
 - __Favourite__
@@ -52,6 +53,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Elm
    - [ ] Elixir
    - [ ] Erlang
+   - [ ] OCaml
    - [ ] R 
    - [ ] Rust
    - [ ] Haskell

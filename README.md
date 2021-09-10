@@ -33,6 +33,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Dart
    - [ ] Perl
    - [ ] Java
+   - [ ] Groovy
    - [ ] Lisp (Fennel, Clojure, CL, Scheme, Racket etc)
    - [ ] Nemerle
    - [ ] Julia

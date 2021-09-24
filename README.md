@@ -21,10 +21,10 @@ I'm mainly interested in desktop software development, mobile development, gamed
 ### Me and programming
 
 - __Planning to learn__
-   - [ ] F# 
-   - [ ] Visual Basic.NET
    - [ ] Scala
+   - [ ] Visual Basic.NET
    - [ ] C#
+   - [ ] F#
    - [ ] Lua
    - [ ] Pascal
    - [ ] Haxe
@@ -37,6 +37,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Lisp (Fennel, Clojure, CL, Scheme, Racket etc)
    - [ ] Nemerle
    - [ ] Julia
+   - [ ] Nim
    - [ ] D
    - [ ] Swift
    - [ ] Ada
@@ -45,7 +46,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Zig
    - [ ] Objective-C
    - [ ] Objective-C++
-   - [ ] Assembly
+   - [ ] Assembly language
 - __May learn__
    - [ ] Ruby
    - [ ] Crystal
@@ -61,6 +62,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I get to Apple development)
 - __IDEs of choice:__ Microsoft Visual Studio, JetBrains IntelliJ IDEA, Visual Studio Code, Embarcadero Delphi, HaxeDevelop, Sublime Text
 
+[Here's](https://github.com/TheWitheredStriker/WithersCodingWishlist/blob/main/README.md) the stuff I dream of coding one day.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=10)](https://github.com/TheWitheredStriker/github-readme-stats)
 

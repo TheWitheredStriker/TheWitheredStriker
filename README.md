@@ -21,14 +21,14 @@ I'm mainly interested in desktop software development, mobile development, gamed
 ### Me and programming
 
 - __Planning to learn__
-   - [ ] Scala
+   - [ ] F#
    - [ ] Visual Basic.NET
    - [ ] C#
-   - [ ] F#
+   - [ ] Scala
+   - [ ] Kotlin
    - [ ] Lua
    - [ ] Pascal
    - [ ] Haxe
-   - [ ] Kotlin
    - [ ] Node.js
    - [ ] Dart
    - [ ] Perl

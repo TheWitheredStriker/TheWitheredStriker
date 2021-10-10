@@ -48,15 +48,12 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Objective-C++
    - [ ] Assembly language
 - __May learn__
-   - [ ] Ruby
    - [ ] Crystal
    - [ ] Go
    - [ ] V
-   - [ ] Elm
    - [ ] Elixir
    - [ ] Erlang
-   - [ ] OCaml
-   - [ ] R 
+   - [ ] OCaml 
    - [ ] Rust
 - I may even pick up COBOL, given [how it's still huge in banks and mainframes and how the demand for it surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T).
 - __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I get to Apple development)

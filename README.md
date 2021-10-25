@@ -32,6 +32,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Node.js
    - [ ] Dart
    - [ ] Perl
+   - [ ] CoffeeScript
    - [ ] Java
    - [ ] Groovy
    - [ ] Lisp (Fennel, Clojure, CL, Scheme, Racket etc)
@@ -48,7 +49,9 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Objective-C++
    - [ ] Assembly language
 - __May learn__
+   - [ ] Ruby 
    - [ ] Crystal
+   - [ ] MoonScript
    - [ ] Go
    - [ ] V
    - [ ] Elixir

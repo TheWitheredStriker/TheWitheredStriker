@@ -52,6 +52,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Ruby 
    - [ ] Crystal
    - [ ] MoonScript
+   - [ ] Beef
    - [ ] Go
    - [ ] V
    - [ ] Elixir

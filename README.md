@@ -36,6 +36,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Java
    - [ ] Groovy
    - [ ] Lisp (Fennel, Clojure, CL, Scheme, Racket etc)
+   - [ ] ML (Standard ML)
    - [ ] Nemerle
    - [ ] Julia
    - [ ] Nim
@@ -52,6 +53,9 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Ruby 
    - [ ] Crystal
    - [ ] MoonScript
+   - [ ] Boo
+   - [ ] Cobra
+   - [ ] Fantom
    - [ ] Beef
    - [ ] Go
    - [ ] V

@@ -47,6 +47,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] C++
    - [ ] Zig
    - [ ] Objective-C
+   - [ ] Objective-J
    - [ ] Objective-C++
    - [ ] Assembly language
 - __May learn__

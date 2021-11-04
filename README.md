@@ -59,7 +59,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Fantom
    - [ ] Beef
    - [ ] Go
-   - [ ] V
+   - [ ] Elm
    - [ ] Elixir
    - [ ] Erlang
    - [ ] OCaml 

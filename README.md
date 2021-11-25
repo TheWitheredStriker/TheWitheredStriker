@@ -27,6 +27,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Scala
    - [ ] Kotlin
    - [ ] Lua
+   - [ ] MoonScript
    - [ ] Pascal
    - [ ] Haxe
    - [ ] Node.js
@@ -53,7 +54,6 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - __May learn__
    - [ ] Ruby 
    - [ ] Crystal
-   - [ ] MoonScript
    - [ ] Boo
    - [ ] Cobra
    - [ ] Fantom

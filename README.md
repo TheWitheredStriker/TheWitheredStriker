@@ -70,7 +70,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 [Here's](https://github.com/TheWitheredStriker/WithersCodingWishlist/blob/main/README.md) the stuff I dream of coding one day.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=10)](https://github.com/TheWitheredStriker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=15)](https://github.com/TheWitheredStriker/github-readme-stats)
 
 # Contact me
 

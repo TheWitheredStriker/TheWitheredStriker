@@ -40,6 +40,8 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] MCFunction
    - [ ] Pawn
    - [ ] SourcePawn
+   - [ ] Squirrel
+   - [ ] AngelScript
    - [ ] C
    - [ ] C++
    - [ ] Batchfile
@@ -57,6 +59,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Objective-C
    - [ ] Objective-C++
    - [ ] AppleScript
+   - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
    - [ ] Classic Visual Basic
    - [ ] VBA
    - [ ] Gosu

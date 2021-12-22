@@ -20,38 +20,49 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 ### Me and programming
 
-- __Planning to learn__
+- __Definitely planning to learn__
    - [ ] F#
    - [ ] Visual Basic.NET
    - [ ] C#
-   - [ ] Scala
    - [ ] Kotlin
+   - [ ] Scala
    - [ ] Lua
    - [ ] MoonScript
    - [ ] Pascal
    - [ ] Haxe
    - [ ] Node.js
-   - [ ] Dart
    - [ ] Perl
    - [ ] CoffeeScript
    - [ ] Java
    - [ ] Groovy
-   - [ ] Lisp (Fennel, Clojure, CL, Scheme, Racket etc)
-   - [ ] ML (Standard ML)
-   - [ ] Nemerle
-   - [ ] Julia
+   - [ ] Lisp (Clojure, Scheme, Common Lisp, Racket, Fennel etc)
    - [ ] Nim
-   - [ ] D
-   - [ ] Swift
-   - [ ] Ada
+   - [ ] MCFunction
+   - [ ] Pawn
+   - [ ] SourcePawn
    - [ ] C
    - [ ] C++
+   - [ ] Batchfile
+   - [ ] PowerShell
+   - [ ] Shell / Bash (sh)
+   - [ ] Forth
    - [ ] Zig
-   - [ ] Objective-C
    - [ ] Objective-J
-   - [ ] Objective-C++
    - [ ] Assembly language
 - __May learn__
+   - [ ] Dart
+   - [ ] Nemerle
+   - [ ] ML (Standard ML)
+   - [ ] Swift
+   - [ ] Objective-C
+   - [ ] Objective-C++
+   - [ ] AppleScript
+   - [ ] Classic Visual Basic
+   - [ ] VBA
+   - [ ] Gosu
+   - [ ] Ada
+   - [ ] D
+   - [ ] Julia
    - [ ] Ruby 
    - [ ] Crystal
    - [ ] Boo
@@ -65,7 +76,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] OCaml 
    - [ ] Rust
 - I may even pick up COBOL, given [how it's still huge in banks and mainframes and how the demand for it surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T).
-- __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I get to Apple development)
+- __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I want to try out Apple development)
 - __IDEs of choice:__ Microsoft Visual Studio, JetBrains IntelliJ IDEA, Visual Studio Code, Embarcadero Delphi, HaxeDevelop, Sublime Text
 
 [Here's](https://github.com/TheWitheredStriker/WithersCodingWishlist/blob/main/README.md) the stuff I dream of coding one day.

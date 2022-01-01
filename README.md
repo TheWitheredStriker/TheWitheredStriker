@@ -49,7 +49,6 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Shell / Bash (sh)
    - [ ] Forth
    - [ ] Zig
-   - [ ] Objective-J
    - [ ] Assembly language
 - __May learn__
    - [ ] Dart
@@ -58,11 +57,13 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Swift
    - [ ] Objective-C
    - [ ] Objective-C++
+   - [ ] Objective-J
    - [ ] AppleScript
    - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
    - [ ] Classic Visual Basic
    - [ ] VBA
    - [ ] Gosu
+   - [ ] Ceylon
    - [ ] Ada
    - [ ] D
    - [ ] Julia

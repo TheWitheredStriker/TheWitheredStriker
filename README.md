@@ -80,6 +80,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] V
    - [ ] OCaml 
    - [ ] Rust
+   - [ ] Golo
    - [ ] COBOL (Given [how it's still huge in banks and mainframes and how the demand for it surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T))
 - __Languages I'm NOT going to learn__
    - Haskell

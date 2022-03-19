@@ -22,66 +22,73 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 ### Me and programming
 
-- __Definitely planning to learn__
-   - [ ] F#
-   - [ ] Visual Basic.NET
+- __My first three programming languages__
+   - [ ] F# (First language I plan to learn)
+   - [ ] Scala (Second language)
+   - [ ] C++ (third language)
+- __Languages I'm definitely learning thereafter__ (Fluid order)
+   - [ ] Visual Basic .NET
    - [ ] C#
    - [ ] Kotlin
-   - [ ] Scala
+   - [ ] Swift
    - [ ] Lua
    - [ ] MoonScript
    - [ ] Pascal
    - [ ] Haxe
-   - [ ] Node.js
    - [ ] Perl
    - [ ] CoffeeScript
-   - [ ] Java
-   - [ ] Groovy
    - [ ] Lisp (Clojure, Scheme, Common Lisp, Racket, Fennel etc)
-   - [ ] Nim
    - [ ] MCFunction
-   - [ ] Pawn
-   - [ ] SourcePawn
+   - [ ] Pawn (+ SourcePawn)
    - [ ] Squirrel
-   - [ ] AngelScript
    - [ ] C
-   - [ ] C++
-   - [ ] Batchfile
-   - [ ] PowerShell
-   - [ ] Shell / Bash (sh)
-   - [ ] Forth
    - [ ] Zig
    - [ ] Assembly language
-- __May learn__
-   - [ ] Dart
-   - [ ] Nemerle
-   - [ ] ML (Standard ML)
-   - [ ] Swift
-   - [ ] Objective-C
-   - [ ] Objective-C++
-   - [ ] Objective-J
-   - [ ] AppleScript
-   - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
-   - [ ] Classic Visual Basic
-   - [ ] VBA
-   - [ ] Gosu
-   - [ ] Ceylon
-   - [ ] Ada
-   - [ ] D
-   - [ ] Julia
-   - [ ] Ruby 
-   - [ ] Crystal
-   - [ ] Boo
-   - [ ] Cobra
-   - [ ] Fantom
-   - [ ] Beef
-   - [ ] Go
-   - [ ] Elm
+- __Languages I'm _probably_ learning thereafter__ (Fluid order)
+   - [ ] Java
+   - [ ] Groovy
+   - [ ] Vala
+   - [ ] AngelScript
+   - [ ] Nim
+   - [ ] LiveScript
    - [ ] Elixir
    - [ ] Erlang
+   - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
+   - [ ] UnrealScript
+   - [ ] Dart
+   - [ ] Nemerle
+   - [ ] Boo
+   - [ ] Ruby
+   - [ ] Fantom
+   - [ ] Ceylon
+   - [ ] Gosu
+   - [ ] D
+   - [ ] Ada
+   - [ ] Julia
+   - [ ] Forth
+   - [ ] PowerShell
+- __Languages I _may_ learn__
+   - [ ] Objective-C
+   - [ ] Objective-C++
+   - [ ] PHP
+   - [ ] Hack
+   - [ ] Crystal
+   - [ ] Cython
+   - [ ] Cobra
+   - [ ] Beef
+   - [ ] Go
+   - [ ] V
    - [ ] OCaml 
    - [ ] Rust
-- I may even pick up COBOL, given [how it's still huge in banks and mainframes and how the demand for it surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T).
+   - [ ] COBOL (Given [how it's still huge in banks and mainframes and how the demand for it surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T))
+- __Languages I'm NOT going to learn__
+   - Haskell
+   - Elm
+   - Prolog
+   - Curry
+   - Fortran
+   - TypeScript
+   - Genie
 - __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I want to try out Apple development)
 - __IDEs of choice:__ Microsoft Visual Studio, JetBrains IntelliJ IDEA, Visual Studio Code, Embarcadero Delphi, HaxeDevelop, Sublime Text
 

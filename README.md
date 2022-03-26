@@ -22,10 +22,13 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 ### Me and programming
 
-- __My first three programming languages__
+- __My first six programming languages__
    - [ ] F# (First language I plan to learn)
    - [ ] Scala (Second language)
-   - [ ] C++ (third language)
+   - [ ] Elixir (Third language)
+   - [ ] C++ (Fourth language)
+   - [ ] V (Fifth language)
+   - [ ] High Level Assembly (Sixth language)
 - __Languages I'm definitely learning thereafter__ (Fluid order)
    - [ ] Visual Basic .NET
    - [ ] C#
@@ -52,7 +55,6 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Nim
    - [ ] LiveScript
    - [ ] Elixir
-   - [ ] Erlang
    - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
    - [ ] UnrealScript
    - [ ] Dart
@@ -72,12 +74,12 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Objective-C++
    - [ ] PHP
    - [ ] Hack
+   - [ ] Erlang
    - [ ] Crystal
    - [ ] Cython
    - [ ] Cobra
    - [ ] Beef
    - [ ] Go
-   - [ ] V
    - [ ] OCaml 
    - [ ] Rust
    - [ ] Golo

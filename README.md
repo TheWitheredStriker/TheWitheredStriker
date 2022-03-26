@@ -54,7 +54,6 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] AngelScript
    - [ ] Nim
    - [ ] LiveScript
-   - [ ] Elixir
    - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
    - [ ] UnrealScript
    - [ ] Dart

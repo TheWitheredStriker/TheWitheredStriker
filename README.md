@@ -44,6 +44,8 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] MCFunction
    - [ ] Pawn (+ SourcePawn)
    - [ ] Squirrel
+   - [ ] Forth
+   - [ ] Smalltalk
    - [ ] C
    - [ ] Zig
    - [ ] Assembly language
@@ -63,10 +65,10 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Fantom
    - [ ] Ceylon
    - [ ] Gosu
+   - [ ] Self
    - [ ] D
    - [ ] Ada
    - [ ] Julia
-   - [ ] Forth
    - [ ] PowerShell
 - __Languages I _may_ learn__
    - [ ] Objective-C

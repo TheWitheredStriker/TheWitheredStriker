@@ -22,6 +22,15 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 ### Me and programming
 
+As of now, I am currently learning F# and planning to follow that up with Scala, Lisp, C++, C#, Nim, Assembly, LiveScript, Kotlin, Elixir, Lua and V. There are several other languages I also look at with interest, like Haxe, Pascal, Zig, Forth, Smalltalk, Swift, Nemerle, Boo and D, among several others (including some obscure languages that I'm curious about, like Golo, Gosu, Xtend, Beef, High Level Assembly and Ceylon). As an aspiring game modder, I also eye languages like MCFunction, UnrealScript, Pawn / SourcePawn, Squirrel and GSC.
+
+I don't really like Python, Rust, PHP, Go, Prolog, Fortran, Haskell, Elm and Erlang, and aside from very possibly checking out Rust out of pure curiosity and to see why everyone loves it so much, I do not expect to look into them. I'm also not a JavaScript fan.
+
+Other languages are up in the middle. I don't rule out the possibility of investigating them, but have no explicit plans to pick them up either.
+
+My main IDE's of preference are Visual Studio, Visual Studio Code and IntelliJ IDEA; I also plan to look into Vim and Emacs later on. I develop on Windows, though I also run Ubuntu on my PC.
+
+<!--
 - __My first six programming languages__
    - [ ] F# (First language I plan to learn)
    - [ ] Scala (Second language)
@@ -96,7 +105,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - __Development environment:__ Microsoft Windows (I'll probably rent a Mac in the cloud when I want to try out Apple development)
 - __IDEs of choice:__ Microsoft Visual Studio, JetBrains IntelliJ IDEA, Visual Studio Code, Embarcadero Delphi, HaxeDevelop, Sublime Text
 
-[Here's](https://github.com/TheWitheredStriker/WithersCodingWishlist/blob/main/README.md) the stuff I dream of coding one day.
+[Here's](https://github.com/TheWitheredStriker/WithersCodingWishlist/blob/main/README.md) the stuff I dream of coding one day.-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=15)](https://github.com/TheWitheredStriker/github-readme-stats)
 

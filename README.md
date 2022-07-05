@@ -33,39 +33,33 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Visual Basic .NET
    - [ ] C#
    - [ ] Kotlin
-   - [ ] Swift
    - [ ] Lua
    - [ ] MoonScript
    - [ ] Pascal
    - [ ] Haxe
-   - [ ] Perl
-   - [ ] CoffeeScript
+   - [ ] LiveScript
    - [ ] Lisp (Clojure, Scheme, Common Lisp, Racket, Fennel etc)
-   - [ ] MCFunction
-   - [ ] Pawn (+ SourcePawn)
-   - [ ] Squirrel
    - [ ] Forth
    - [ ] Smalltalk
    - [ ] C
+   - [ ] Nim
    - [ ] Zig
    - [ ] Assembly language
 - __Languages I'm _probably_ learning thereafter__ (Fluid order)
    - [ ] Java
    - [ ] Groovy
    - [ ] Vala
+   - [ ] Swift
+   - [ ] Perl
    - [ ] AngelScript
-   - [ ] Nim
-   - [ ] LiveScript
+   - [ ] MCFunction
+   - [ ] Pawn (+ SourcePawn)
+   - [ ] Squirrel
    - [ ] GSC (_Call of Duty: Black Ops 3_ scripting / modding language)
    - [ ] UnrealScript
-   - [ ] Dart
    - [ ] Nemerle
    - [ ] Boo
    - [ ] Ruby
-   - [ ] Fantom
-   - [ ] Ceylon
-   - [ ] Gosu
-   - [ ] Self
    - [ ] D
    - [ ] Ada
    - [ ] Julia
@@ -73,6 +67,13 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - __Languages I _may_ learn__
    - [ ] Objective-C
    - [ ] Objective-C++
+   - [ ] Fantom
+   - [ ] Ceylon
+   - [ ] Gosu
+   - [ ] Golo
+   - [ ] Xtend
+   - [ ] Self
+   - [ ] Dart
    - [ ] PHP
    - [ ] Hack
    - [ ] Erlang
@@ -83,9 +84,8 @@ I'm mainly interested in desktop software development, mobile development, gamed
    - [ ] Go
    - [ ] OCaml 
    - [ ] Rust
-   - [ ] Golo
    - [ ] COBOL (Given [how it's still huge in banks and mainframes and how the demand for it surged](https://www.businessinsider.com/new-jersey-cobol-programmers-coronavirus-experts-mainframe-2020-4?r=US&IR=T))
-- __Languages I'm NOT going to learn__
+- __Languages I do not intend to learn__
    - Haskell
    - Elm
    - Prolog

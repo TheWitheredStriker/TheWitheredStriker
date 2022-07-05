@@ -28,6 +28,8 @@ I don't really like Python, Rust, PHP, Go, Prolog, Fortran, Haskell, Elm and Erl
 
 Other languages are up in the middle. I don't rule out the possibility of investigating them, but have no explicit plans to pick them up either.
 
+I'm also one of the 17 people on Earth who, somehow, are interested in learning COBOL. Then again, I _am_ a madman. But on the other hand, due to COBOL's horrible reputation (which drives off the overwhelming majority of coders from learning it) and the retirement of existing COBOL programmers, the demand for a new, "fresh" generation of COBOL programmers has **exploded** among the surprisingly many companies and governmental organizations that still rely on it. Hence, I plan to unironically study COBOL so I can fill this gap in the market.
+
 My main IDE's of preference are Visual Studio, Visual Studio Code and IntelliJ IDEA; I also plan to look into Vim and Emacs later on. I develop on Windows, though I also run Ubuntu on my PC.
 
 <!--

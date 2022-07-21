@@ -122,6 +122,7 @@ You may freely use [this repository's Discussions area](https://github.com/TheWi
 - __[Steam](https://steamcommunity.com/id/TheWitheredStriker/)__ 
 - __[GOG.com](https://www.gog.com/u/Withered_Striker)__
 - __[Uplay](https://ubisoftconnect.com/en-US/profile/WitheredStriker)__
+- __[Epic Games](https://launcher.store.epicgames.com/u/57b2599a43b344fc88bde3d0098ac6a4)__
 - __[Google Stadia](https://stadia.com/link/home?si_rid=11929210142687632981)__
 - __[Reddit](https://www.reddit.com/user/Wither_Kelaini)__
 

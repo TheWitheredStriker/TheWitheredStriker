@@ -8,7 +8,9 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 - __Name:__ TheWitheredStriker (Wither)
 - __Location:__ West Flanders, Belgium
-- __Pronouns:__ He / him / his
+- __Pronouns:__ 
+  - He / him / his (preferred)
+  - They / them / their
 - __Gender:__ Male
 - __Languages:__ Dutch (N) & English (EN-3)
 - __Interests:__ Videogames, pop culture, computer science, history, demography, 3D art

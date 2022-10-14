@@ -22,9 +22,9 @@ I'm mainly interested in desktop software development, mobile development, gamed
 
 ### Me and programming
 
-As of now, I am currently learning F# and planning to follow that up with Scala, Lisp, C++, C#, Nim, Assembly, LiveScript, Kotlin, Elixir, Lua and V. There are several other languages I also look at with interest, like Haxe, Pascal, Zig, Forth, Smalltalk, Swift, Nemerle, Boo and D, among several others (including some obscure languages that I'm curious about, like Fantom, Golo, Gosu, Xtend, Beef, High Level Assembly and Ceylon). As an aspiring game modder, I also eye languages like MCFunction, UnrealScript, Pawn / SourcePawn, Squirrel and GSC.
+As of now, I am currently learning C# in college; in my spare time, I plan to learn F#, Scala, Lisp, Factor, Forth, C++, Assembly, LiveScript, Kotlin, Java and Elixir. There are several other languages I also look at with interest, like Lua, Nim, V, Haxe, Pascal, Zig, Smalltalk, Swift, Nemerle, Erlang, Boo and D, among several others (including some obscure languages that I'm curious about, like Fantom, Golo, Gosu, Xtend, Beef, High Level Assembly and Ceylon), but I'm not sure which of them I'll actually learn. As an aspiring game modder, I also eye languages like MCFunction, UnrealScript, Pawn / SourcePawn, Squirrel and GSC.
 
-I don't really like Python, Rust, PHP, Go, Prolog, Fortran, Haskell, Elm and Erlang, and aside from very possibly checking out Rust out of pure curiosity and to see why everyone loves it so much, I do not expect to look into them. I'm also not a JavaScript fan.
+I don't really like Python, Rust, PHP, Go, Prolog, Fortran, Haskell and Elm, and aside from very possibly checking out Rust out of pure curiosity and to see why everyone loves it so much, I do not expect to look into them. I'm also not a JavaScript fan.
 
 Other languages are up in the middle. I don't rule out the possibility of investigating them, but have no explicit plans to pick them up either.
 

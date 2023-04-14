@@ -58,6 +58,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
   - TypeScript
   - Python 
   - Fortran
+  - Java
 
 # Contact me
 

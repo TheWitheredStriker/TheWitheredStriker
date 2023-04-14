@@ -45,7 +45,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
   - [ ] Haxe
   - [ ] COBOL
   - [ ] Self
-  - [ ] Perl
+  - [ ] Odin
   - [ ] Ada
 - Not interested
   - Rust

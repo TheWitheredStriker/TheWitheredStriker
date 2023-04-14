@@ -36,7 +36,7 @@ I'm mainly interested in desktop software development, mobile development, gamed
   - [ ] Nim
   - [ ] Zig
   - [ ] Assembly 
-- Programming languages I may learn
+- Programming languages I _may_ learn
   - [ ] Elixir
   - [ ] D
   - [ ] Pascal
@@ -45,6 +45,8 @@ I'm mainly interested in desktop software development, mobile development, gamed
   - [ ] Haxe
   - [ ] COBOL
   - [ ] Self
+  - [ ] Perl
+  - [ ] Ada
 - Not interested
   - Rust
   - Go
@@ -56,8 +58,6 @@ I'm mainly interested in desktop software development, mobile development, gamed
   - TypeScript
   - Python 
   - Fortran
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitheredStriker&langs_count=15)](https://github.com/TheWitheredStriker/github-readme-stats)
 
 # Contact me
 

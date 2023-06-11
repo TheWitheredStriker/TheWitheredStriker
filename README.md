@@ -5,7 +5,6 @@ My username is TheWitheredStriker, but just call me Wither. I'm a novice program
 I'm mainly interested in desktop software development, mobile development, gamedev (and modding), systems programming, ROM hacking and to a lesser degree cloud computing, servers and reverse engineering. I'm not interested in web development, most algorithms, computational science or statistics, AI and robotics. This largely affects my programming language choices.
 
 ## About me
-
 - __Name:__ TheWitheredStriker (Wither)
 - __Location:__ West Flanders, Belgium
 - __Pronouns:__ 
@@ -21,44 +20,28 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - Asexual and finromantic
 
 ### Me and programming
-
-- Programming languages I'd like to learn
+__Programming language learning schedule__
+- [ ] Part 1: .NET
   - [ ] C#
-  - [ ] Visual Basic .NET
+  - [ ] VB.NET
   - [ ] F#
-  - [ ] Scala
-  - [ ] Kotlin
-  - [ ] Lisp (Common Lisp and Clojure mainly)
+- [ ] Part 2: Lisp
+  - [ ] Clojure
+  - [ ] Common Lisp
+- [ ] Part 3: Stack-based
   - [ ] Factor
   - [ ] Forth
+- [ ] Part 4: Some assorted crud with no actual relationship (I just slapped them together)
   - [ ] Smalltalk
+  - [ ] Scala
+  - [ ] Pascal
+- [ ] Part 5: Going lower
+  - [ ] C
   - [ ] C++
   - [ ] Nim
-  - [ ] Zig
-  - [ ] Assembly 
-- Programming languages I _may_ learn
-  - [ ] Elixir
-  - [ ] D
-  - [ ] Pascal
-  - [ ] V
-  - [ ] Ruby
-  - [ ] Haxe
-  - [ ] COBOL
-  - [ ] Self
-  - [ ] Odin
-  - [ ] Ada
-- Not interested
-  - Rust
-  - Go
-  - Haskell
-  - Elm
-  - Prolog
-  - Erlang
-  - JavaScript
-  - TypeScript
-  - Python 
-  - Fortran
-  - Java
+  - [ ] Assembly
+
+I'm interested in some other languages as well, like Elixir, D, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
 
 # Contact me
 

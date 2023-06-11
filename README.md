@@ -23,7 +23,6 @@ I'm mainly interested in desktop software development, mobile development, gamed
 __Programming language learning schedule__
 - [ ] Part 1: .NET
   - [ ] C#
-  - [ ] VB.NET
   - [ ] F#
 - [ ] Part 2: Lisp
   - [ ] Clojure
@@ -34,14 +33,13 @@ __Programming language learning schedule__
 - [ ] Part 4: Some assorted crud with no actual relationship (I just slapped them together)
   - [ ] Smalltalk
   - [ ] Scala
-  - [ ] Pascal
 - [ ] Part 5: Going lower
   - [ ] C
   - [ ] C++
   - [ ] Nim
   - [ ] Assembly
 
-I'm interested in some other languages as well, like Elixir, D, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
+I'm interested in some other languages as well, like Elixir, Pascal, D, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
 
 # Contact me
 

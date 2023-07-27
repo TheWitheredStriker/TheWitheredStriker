@@ -37,7 +37,7 @@ __Programming languages I want to learn__
   - [ ] D
   - [ ] Nim
 
-I'm interested in some other languages as well, like Elixir, Pascal, D, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
+I'm interested in some other languages as well, like Elixir, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
 
 # Contact me
 

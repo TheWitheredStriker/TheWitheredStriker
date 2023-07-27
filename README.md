@@ -20,24 +20,22 @@ I'm mainly interested in desktop software development, mobile development, gamed
 - Asexual and finromantic
 
 ### Me and programming
-__Programming language learning schedule__
-- [ ] Part 1: .NET
-  - [ ] C#
-  - [ ] F#
-- [ ] Part 2: Lisp
-  - [ ] Clojure
-  - [ ] Common Lisp
-- [ ] Part 3: Stack-based
+__Programming languages I want to learn__
+- Definitely
+   - [ ] C#
+   - [ ] F#
+   - [ ] Lisp (Clojure / Common Lisp)
+   - [ ] Ruby
+   - [ ] Pascal
+   - [ ] Scala
+   - [ ] C++
+- Maybe/Probably    
   - [ ] Factor
   - [ ] Forth
-- [ ] Part 4: Some assorted crud with no actual relationship (I just slapped them together)
   - [ ] Smalltalk
-  - [ ] Scala
-- [ ] Part 5: Going lower
-  - [ ] C
-  - [ ] C++
+  - [ ] Kotlin
+  - [ ] D
   - [ ] Nim
-  - [ ] Assembly
 
 I'm interested in some other languages as well, like Elixir, Pascal, D, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
 

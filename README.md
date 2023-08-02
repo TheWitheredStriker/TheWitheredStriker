@@ -19,25 +19,24 @@ I'm mainly interested in desktop software development, mobile development, gamed
   - __music genres:__ Pop, rock, metal, techno, hardstyle, dubstep, complextro, house, progressive, EDM, synthwave
 - Asexual and finromantic
 
-### Me and programming
-__Programming languages I want to learn__
+### Programming languages I want to learn
 - Definitely
    - [ ] C#
+   - [ ] Visual Basic .NET
    - [ ] F#
    - [ ] Lisp (Clojure / Common Lisp)
    - [ ] Ruby
    - [ ] Pascal
    - [ ] Scala
-   - [ ] C++
-- Maybe/Probably    
+   - [ ] C/C++
+- Probably    
    - [ ] Factor
    - [ ] Forth
    - [ ] Smalltalk
    - [ ] Kotlin
    - [ ] D
-   - [ ] Nim
 
-I'm interested in some other languages as well, like Elixir, Ada, and Kotlin, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
+I'm interested in some other languages as well, like Elixir, Nim and Ada, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
 
 # Contact me
 

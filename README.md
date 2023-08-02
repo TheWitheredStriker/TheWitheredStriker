@@ -20,9 +20,8 @@ I'm mainly interested in desktop software development, gamedev (and modding) and
    - [ ] Forth
    - [ ] Smalltalk
    - [ ] Kotlin
-   - [ ] D
 
-I'm interested in some other languages as well, like Elixir, Nim and Ada, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
+I'm interested in some other languages as well, like Elixir, D, Nim and Ada, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
 
 # Contact me
 

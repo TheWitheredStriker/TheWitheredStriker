@@ -1,30 +1,31 @@
 ### Hi there! 👋
-
 My username is TheWitheredStriker, but just call me Wither (or Midas). I'm a novice programmer from Flanders with ambitions in software development and gamedev. While I'm not particularly good at programming right _now_, I'm hoping to soon change that! I currently attend college, where I'm taking programming classes.
 
 I'm mainly interested in desktop software development, gamedev (and modding) and ROM hacking. To a lesser extent, I'm also interested in back-end web development and mobile development. I'm not interested in front-end web development, computational science or statistics, networking, AI and robotics. 
 
 ### Programming languages I want to learn
-- Definitely
-   - [ ] C#
-   - [ ] Visual Basic .NET
-   - [ ] F#
-   - [ ] Ruby
-   - [ ] Pascal
-   - [ ] Scala
-   - [ ] C/C++
-   - [ ] Assembly
-- Probably
-   - [ ] Lisp (Clojure / Common Lisp) 
-   - [ ] Factor
-   - [ ] Forth
-   - [ ] Smalltalk
-   - [ ] Kotlin
+This is the current list of programming languages I want to learn in order.
+- [ ] C#
+- [ ] VB.NET
+- [ ] C++
+- [ ] D
+- [ ] Ruby
+- [ ] Kotlin
+- [ ] Common Lisp
+- [ ] Assembly
 
-I'm interested in some other languages as well, like Elixir, D, Nim and Ada, but I'm not sure if I'll ever get to those. The other ones I just mentioned have priority.
+I'm also interested in several other programming languages, though only time will tell if I'll pick them up:
+- F#
+- Scala
+- Pascal
+- Clojure
+- Forth
+- Factor
+- Smalltalk
+- Elixir
+- Nim
 
 # Contact me
-
 You may freely use [this repository's Discussions area](https://github.com/TheWitheredStriker/TheWitheredStriker/discussions) for literally everything you want. If you want to ask me a question, or just talk with me (even about stuff unrelated to code), you may freely do so in the Discussions. For private contact, I also have my Twitter linked on my smaller bio (DM's are open to everyone) and you can also access my e-mail. You may request my Discord tag through either of these two mediums, or you can give me yours so I can add you.
 
 <!--# Other accounts
